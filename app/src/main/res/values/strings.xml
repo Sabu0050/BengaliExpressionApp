@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bengali Expression</string>
+    <string name="about_one"><b>Bengali Expression</b> is a language learning app which provides commonly used expressions on various topics such as Shopping conversation, Airport conversation etc This application helps to speak in English and Bengali languages.</string>
+    <string name="about_two">To get more expressions/translations visit &lt;a href="http://English-bangla.com/translations">English-bangla.com/translations&lt;/a></string>
+    <string name="about_three"><b>Bengali Expression</b> application is developed by English-bangla.com</string>
+    <string name="about_four">E-mail: &lt;a href="http://english.bangla.com@gmail.com">english.bangla.com@gmail.com&lt;/a></string>
+    <string name="about_five">For any query please <b>contact</b> us through above e-mail address.</string>
+    <string name="about_six">© All right reserved by &lt;a href="http://English-bangla.com">English-bangla.com&lt;/a></string>
+    <string name="banner_ad_unit_id">ca-app-pub-8471623365486761/7571366601</string>
+</resources>
